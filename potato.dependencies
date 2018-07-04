@@ -1,0 +1,17 @@
+[
+ {
+   "repository" : "anunaym14/android_device_zuk_msm8996-common",
+   "target_path": "device/zuk/msm8996-common",
+   "branch"     : "aligot-release"
+ },
+ {
+   "repository" : "zuk-devs/android_vendor_zuk",
+   "target_path": "vendor/zuk",
+   "branch"     : "lineage-15.1"
+ },
+ {
+   "repository" : "cosmedd/android_kernel_zuk_msm8996",
+   "target_path": "kernel/zuk/msm8996",
+   "branch"     : "lineage-15.1"
+ }
+]
